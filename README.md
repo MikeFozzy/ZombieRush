@@ -1,5 +1,5 @@
 # ZombieRush
-University Assignment Project made for the Games Development Unit.
+2024 University Assignment Project made for the Games Development Unit.
 
 Built using the Unity Engine.
 
